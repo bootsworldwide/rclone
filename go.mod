@@ -2,6 +2,8 @@ module github.com/rclone/rclone
 
 go 1.23.0
 
+toolchain go1.24.3
+
 require (
 	bazil.org/fuse v0.0.0-20230120002735-62a210ff1fd5
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.17.0
